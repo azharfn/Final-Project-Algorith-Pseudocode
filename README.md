@@ -1,7 +1,8 @@
 # Final-Project-Algorith-Pseudocode
-
 FLOWCHART
+
 ![Flowchart Sistem kasir (memasukan item dan auto calculate total harga)](https://user-images.githubusercontent.com/127107237/225240724-f289d7da-fb77-4fe4-a0a5-1fc276521906.png)
+
 
 PSEUDECODE
 FINAL PROJECT-Algorithm & Pseudocode - Assignment

@@ -5,4 +5,4 @@ FLOWCHART
 
 
 PSEUDECODE
-[Pseudecode Sistem kasir (memasukan item dan auto calculate total harga)..txt](https://github.com/azharfn/Final-Project-Algorith-Pseudocode/files/10977198/Pseudecode.Sistem.kasir.memasukan.item.dan.auto.calculate.total.harga.txt)
+![Pseudecode Sistem kasir (memasukan item dan auto calculate total harga)..txt](https://github.com/azharfn/Final-Project-Algorith-Pseudocode/files/10977198/Pseudecode.Sistem.kasir.memasukan.item.dan.auto.calculate.total.harga.txt)
